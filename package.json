@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/zhongqi22/todoListApiTutorial/issues"
   },
-  "homepage": "https://github.com/zhongqi22/todoListApiTutorial#readme"
+  "homepage": "https://github.com/zhongqi22/todoListApiTutorial#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
