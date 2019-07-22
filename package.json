@@ -1,0 +1,24 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTful todoListApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no text specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongqi22/todoListApiTutorial.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Tutorial"
+  ],
+  "author": "zhongqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhongqi22/todoListApiTutorial/issues"
+  },
+  "homepage": "https://github.com/zhongqi22/todoListApiTutorial#readme"
+}
